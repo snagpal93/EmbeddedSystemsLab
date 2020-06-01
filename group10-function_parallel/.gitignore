@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/jpeg/surfer.jpg
+/jpeg/report_sander_stuijk.pdf
+/jpeg/ref.bmp
+/.vs
+/.Trash-1000
+/jpeg/jpeg_compsoc/.vscode
+/jpeg/jpeg_compsoc/.build
+/jpeg/jpeg_compsoc/binary.pnm
+/jpeg/jpeg_compsoc/response.txt

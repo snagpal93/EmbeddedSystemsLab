@@ -1,0 +1,12 @@
+#ifndef _APPLICATION_MEMMAP_INCLUDED
+#define _APPLICATION_MEMMAP_INCLUDED
+#define mb1_remot_SYNC mb1_cmem0_pt_REMOTEADDR 
+#define mb2_remot_SYNC mb2_cmem0_pt_REMOTEADDR 
+#define mb3_remot_SYNC mb3_cmem0_pt_REMOTEADDR 
+#define mb4_remot_SYNC mb4_cmem0_pt_REMOTEADDR 
+#define mb1_local_SYNC mb1_cmem0_BASEADDR
+#define mb2_local_SYNC mb2_cmem0_BASEADDR
+#define mb3_local_SYNC mb3_cmem0_BASEADDR
+#define mb4_local_SYNC mb4_cmem0_BASEADDR
+
+#endif

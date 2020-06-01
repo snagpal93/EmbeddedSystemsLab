@@ -1,0 +1,56 @@
+Starting monitor
+Setup TFT controller
+Start DMA Mode
+xil_printf: Hello World!
+Received: 1
+Have to receive 288 bytes
+0 remaining
+128: mb1_fsl: 0xFFAA
+133: mb3_fsl: 0xFFAA
+139: mb3_fsl: 0xFFAA
+145: mb4_fsl: 0xFFAA
+Tiles synced.
+MB2 timestamp: 1828613  value: 4 (00000004)
+MB2 timestamp: 1828777  value: 3 (00000003)
+MB2 timestamp: 1828941  value: 55297 (0000D801)
+MB3 timestamp: 3783390  value: 4 (00000004)
+MB4 timestamp: 3783157  value: 4 (00000004)
+MB1 timestamp: 1881920  value: 4 (00000004)
+MB2 timestamp: 1829105  value: 3963 (00000F7B)
+MB3 timestamp: 3783603  value: 3 (00000003)
+MB4 timestamp: 3783370  value: 3 (00000003)
+MB1 timestamp: 1882084  value: 3 (00000003)
+MB2 timestamp: 1829269  value: 0 (00000000)
+MB3 timestamp: 3783816  value: 119938 (0001D482)
+MB4 timestamp: 3783583  value: 119708 (0001D39C)
+MB1 timestamp: 1882248  value: 55813 (0000DA05)
+MB2 timestamp: 1829433  value: 0 (00000000)
+MB3 timestamp: 3784029  value: 6061 (000017AD)
+MB4 timestamp: 3783796  value: 6061 (000017AD)
+MB1 timestamp: 1882412  value: 4007 (00000FA7)
+MB2 timestamp: 1829597  value: 0 (00000000)
+MB3 timestamp: 3784242  value: 0 (00000000)
+MB4 timestamp: 3784009  value: 0 (00000000)
+MB1 timestamp: 1882576  value: 13950 (0000367E)
+MB2 timestamp: 1829761  value: 0 (00000000)
+MB3 timestamp: 3784455  value: 0 (00000000)
+MB4 timestamp: 3784222  value: 0 (00000000)
+MB1 timestamp: 1882740  value: 31810 (00007C42)
+Core 2 done
+MB1 timestamp: 1882904  value: 5265 (00001491)
+MB3 timestamp: 3784668  value: 0 (00000000)
+MB4 timestamp: 3784435  value: 0 (00000000)
+MB1 timestamp: 1883068  value: 306 (00000132)
+MB3 timestamp: 3784881  value: 0 (00000000)
+MB4 timestamp: 3784648  value: 0 (00000000)
+Core 1 done
+Core 3 done
+Core 4 done
+Program finished
+Sending over: 3 bytes
+
+<binary size="3" width="1" height="1">
+É®þ
+</binary>
+
+FINISHED

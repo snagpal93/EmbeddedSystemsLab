@@ -1,0 +1,36 @@
+Starting monitor
+Setup TFT controller
+Start DMA Mode
+xil_printf: Hello World!
+Received: 1
+Have to receive 288 bytes
+0 remaining
+128: mb1_fsl: 0xFFAA
+133: mb3_fsl: 0xFFAA
+139: mb3_fsl: 0xFFAA
+145: mb4_fsl: 0xFFAA
+Tiles synced.
+MB2 timestamp: 1654477  value: 4 (00000004)
+MB2 timestamp: 1654697  value: 1 (00000001)
+MB2 timestamp: 1654861  value: 1638261 (0018FF75)
+MB3 timestamp: 3435139  value: 4 (00000004)
+MB4 timestamp: 3434998  value: 4 (00000004)
+MB1 timestamp: 1705320  value: 4 (00000004)
+Core 2 done
+MB1 timestamp: 1705540  value: 1 (00000001)
+MB3 timestamp: 3435415  value: 1 (00000001)
+MB4 timestamp: 3435274  value: 1 (00000001)
+MB1 timestamp: 1705704  value: 1689104 (0019C610)
+MB3 timestamp: 3435628  value: 3416209 (00342091)
+MB4 timestamp: 3435487  value: 3416068 (00342004)
+Core 1 done
+Core 3 done
+Core 4 done
+Program finished
+Sending over: 3 bytes
+
+<binary size="3" width="1" height="1">
+É®þ
+</binary>
+
+FINISHED
